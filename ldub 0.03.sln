@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ldub 0.03", "ldub 0.03\ldub 0.03.vcxproj", "{7EAF439C-8255-4C09-9ED4-8E2613C632C9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lol", "Lol\Lol.vcxproj", "{D6A3F272-B465-4709-B75A-4FA1285B2BC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EAF439C-8255-4C09-9ED4-8E2613C632C9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7EAF439C-8255-4C09-9ED4-8E2613C632C9}.Debug|Win32.Build.0 = Debug|Win32
+		{7EAF439C-8255-4C09-9ED4-8E2613C632C9}.Release|Win32.ActiveCfg = Release|Win32
+		{7EAF439C-8255-4C09-9ED4-8E2613C632C9}.Release|Win32.Build.0 = Release|Win32
+		{D6A3F272-B465-4709-B75A-4FA1285B2BC4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D6A3F272-B465-4709-B75A-4FA1285B2BC4}.Debug|Win32.Build.0 = Debug|Win32
+		{D6A3F272-B465-4709-B75A-4FA1285B2BC4}.Release|Win32.ActiveCfg = Release|Win32
+		{D6A3F272-B465-4709-B75A-4FA1285B2BC4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
